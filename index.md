@@ -14,4 +14,4 @@ The system is comprised of a Universal Robotics UR5 robot arm mounted on a Merit
 
 ### Video
 
-{% include youtubePlayer.html id=-FqXRtMlc4U %}
+{% include youtubePlayer.html id= -FqXRtMlc4U %}
