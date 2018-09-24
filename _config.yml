@@ -1,5 +1,8 @@
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
 title: A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life
 description: Dian Wang
 show_downloads: false
+
+github:
+  is_project_page: false
