@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
 title: A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life
 description: 
@@ -8,4 +8,3 @@ github:
   is_project_page: false
   
 markdown: kramdown
-
