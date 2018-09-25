@@ -20,6 +20,7 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 Dian Wang<sup>1</sup>, 
 [Colin Kohler<sup>1</sup>](https://www.ccis.northeastern.edu/people/colin-kohler/), 
 [Andreas ten Pas<sup>1</sup>](http://www.ccs.neu.edu/home/atp/), 
+Maozhi Liu<sup>1</sup>, 
 [Holly Yanco<sup>2</sup>](http://www.cs.uml.edu/~holly/), 
 [Robert Platt<sup>1</sup>](http://www.ccs.neu.edu/home/rplatt/)
 
@@ -33,7 +34,7 @@ Dian Wang<sup>1</sup>,
 	<iframe width="853" height="480" src="https://www.youtube.com/embed/-FqXRtMlc4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-## Workflow
+## System Workflow
 ### Interface WorkFlow
 <div style="text-align:center">
 	<img src="img/interface.png" alt="interface_flow" width="700"/>
