@@ -17,7 +17,11 @@ Latest Version 25 Sep 2018:
 
 Submmited to IEEE International Conference on Robotics and Automation (ICRA) 2019
 
-Dian Wang<sup>1</sup>, Colin Kohler<sup>1</sup>, Andreas ten Pas<sup>1</sup>, Holly Yanco<sup>2</sup>, Robert Platt<sup>1</sup>
+Dian Wang<sup>1</sup>, 
+[Colin Kohler<sup>1</sup>](https://www.ccis.northeastern.edu/people/colin-kohler/), 
+[Andreas ten Pas<sup>1</sup>](http://www.ccs.neu.edu/home/atp/), 
+[Holly Yanco<sup>2</sup>](http://www.cs.uml.edu/~holly/), 
+[Robert Platt<sup>1</sup>](http://www.ccs.neu.edu/home/rplatt/)
 
 
 <sup>1</sup>Northeastern University
