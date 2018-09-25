@@ -25,6 +25,13 @@ Dian Wang<sup>1</sup>, Colin Kohler<sup>1</sup>, Andreas ten Pas<sup>1</sup>, Ho
 
 <sup>2</sup>University of Massachusetts Lowell
 
+## Workflow
+### Interface WorkFlow
+<div style="text-align:center">
+	<img src="img/interface.png" alt="interface_flow" width="700"/>
+</div>
+
+
 ## Video
 <div style="text-align:center">
 	<iframe width="640" height="480" src="https://www.youtube.com/embed/-FqXRtMlc4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
