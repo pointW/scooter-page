@@ -30,7 +30,10 @@ Dian Wang<sup>1</sup>, Colin Kohler<sup>1</sup>, Andreas ten Pas<sup>1</sup>, Ho
 <div style="text-align:center">
 	<img src="img/interface.png" alt="interface_flow" width="700"/>
 </div>
-
+### Grasping WorkFlow
+<div style="text-align:center">
+	<img src="img/grasping.png" alt="grasping_flow" width="700"/>
+</div>
 
 ## Video
 <div style="text-align:center">
