@@ -30,7 +30,7 @@ Dian Wang<sup>1</sup>,
 
 ## Video
 <div style="text-align:center">
-	<iframe width="640" height="480" src="https://www.youtube.com/embed/-FqXRtMlc4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="853" height="480" src="https://www.youtube.com/embed/-FqXRtMlc4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ## Workflow
