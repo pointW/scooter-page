@@ -15,8 +15,10 @@ The system is comprised of a Universal Robotics UR5 robot arm mounted on a Merit
 
 # Paper
 Latest Version 25 Sep 2018:
+
 Submmited to IEEE International Conference on Robotics and Automation (ICRA) 2019
-Dian Wang<sup>1</sup>, Colin Kohler<sup>1</sup>
+
+Dian Wang<sup>1</sup>, Colin Kohler<sup>1</sup>, Andreas ten Pas<sup>1</sup>, Holly Yanco<sup>1</sup>, Robert Platt<sup>1</sup>
 
 # Video
 <div style="text-align:center">
