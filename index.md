@@ -3,7 +3,6 @@ youtubeId: lDi9uFcD7XI
 published: true
 ---
 
-## Abstract
 Many people with motor disabilities struggle with activities of daily life (ADLs), limiting their ability to live independently. This paper details a robotic mobility scooter developed to assist with manipulation-based ADLs to increase independence. We present a system comprised of a Universal Robotics UR5 robotic arm, a mobility scooter, five depth sensors, and a user interface which utilizes laser pointers. The system provides pick-and-drop and pick-and-place functionality in open world environments without modeling the objects or environment. We evaluate our system over several experimental scenarios and show an improvement relative to a baseline established for a similar system.
 
 <div style="text-align:center">
@@ -25,6 +24,11 @@ Dian Wang<sup>1</sup>, Colin Kohler<sup>1</sup>, Andreas ten Pas<sup>1</sup>, Ho
 
 <sup>2</sup>University of Massachusetts Lowell
 
+## Video
+<div style="text-align:center">
+	<iframe width="640" height="480" src="https://www.youtube.com/embed/-FqXRtMlc4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Workflow
 ### Interface WorkFlow
 <div style="text-align:center">
@@ -35,7 +39,4 @@ Dian Wang<sup>1</sup>, Colin Kohler<sup>1</sup>, Andreas ten Pas<sup>1</sup>, Ho
 	<img src="img/grasping.png" alt="grasping_flow" width="700"/>
 </div>
 
-## Video
-<div style="text-align:center">
-	<iframe width="640" height="480" src="https://www.youtube.com/embed/-FqXRtMlc4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+
