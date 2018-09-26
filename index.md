@@ -20,7 +20,7 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 [Dian Wang<sup>1</sup>](https://pointw.github.io), 
 [Colin Kohler<sup>1</sup>](https://www.ccis.northeastern.edu/people/colin-kohler/), 
 [Andreas ten Pas<sup>1</sup>](http://www.ccs.neu.edu/home/atp/), 
-Maozhi Liu<sup>1</sup>, 
+[Maozhi Liu<sup>1</sup>](https://www.linkedin.com/in/maozhi-liu/), 
 [Holly Yanco<sup>2</sup>](http://www.cs.uml.edu/~holly/), 
 [Robert Platt<sup>1</sup>](http://www.ccs.neu.edu/home/rplatt/)
 
