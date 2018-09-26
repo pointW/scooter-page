@@ -17,7 +17,7 @@ Latest Version 25 Sep 2018:
 
 Submmited to IEEE International Conference on Robotics and Automation (ICRA) 2019
 
-Dian Wang<sup>1</sup>, 
+[Dian Wang<sup>1</sup>](https://pointw.github.io), 
 [Colin Kohler<sup>1</sup>](https://www.ccis.northeastern.edu/people/colin-kohler/), 
 [Andreas ten Pas<sup>1</sup>](http://www.ccs.neu.edu/home/atp/), 
 Maozhi Liu<sup>1</sup>, 
@@ -43,5 +43,3 @@ Maozhi Liu<sup>1</sup>,
 <div style="text-align:center">
 	<img src="img/grasping.png" alt="grasping_flow" width="700"/>
 </div>
-
-
