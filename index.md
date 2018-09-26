@@ -13,7 +13,7 @@ Many people with motor disabilities struggle with activities of daily life (ADLs
 The system is comprised of a Universal Robotics UR5 robot arm mounted on a Merits Pioneer 10 mobility scooter. Five StructIO depth sensors provide perception functionality for the system. The user interface, including a monitor, a key stick, and a dual laser pointer device, enable the system to interact with the user.
 
 ## Paper
-Latest Version 25 Sep 2018:
+Latest Version 25 Sep 2018: [arXiv:1809.09541[cs.RO]](https://arxiv.org/abs/1809.09541)
 
 Submmited to IEEE International Conference on Robotics and Automation (ICRA) 2019
 
