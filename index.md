@@ -49,9 +49,16 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 <div style="clear:both"></div>
 
 ### Pick and Place In-Situ
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cfigrh8n-4s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div>
+  <div style="float:left; width:450px;">
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/cfigrh8n-4s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+  <div style="float:left; max-width:500px">
+    <p>To test our system in a real-world scenario, we used an open kitchen area. The system were run with automatic grasp selection in pick-and-drop mode by an expert user. At the start of each task, the scooter was driven to a start point and then up to the next object in the sequence to be grasped. Then the expert user would operate the system to grasp the target object.</p >
+  </div>
+</div>
 
-To test our system in a real-world scenario, we used an open kitchen area. The system were run with automatic grasp selection in pick-and-drop mode by an expert user. At the start of each task, the scooter was driven to a start point and then up to the next object in the sequence to be grasped. Then the expert user would operate the system to grasp the target object.
+<div style="clear:both"></div>
 
 ## System Workflow
 ### Interface WorkFlow
