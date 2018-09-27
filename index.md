@@ -42,7 +42,7 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
     <iframe width="400" height="225" src="https://www.youtube.com/embed/4sy7esFrItU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
   <div style="float:left; max-width:500px">
-    <p>To evaluate the grasping functionality of our system, we performed experiments in a tabletop scenario where the scooter was stationary. For each trial, six objects were randomly selected from the object set and placed on the table in randomly selected positions at least two centimeters away from each other in their upright orientation. These trials were run with automatic grasp selection in pick-and-drop mode by an expert user who determined the order the objects were grasped in.</p >
+    <p>To evaluate the grasping functionality of our system, we performed experiments in a tabletop scenario where the scooter was stationary. For each trial, objects were placed on the table in randomly selected positions at least two centimeters away from each other in their upright orientation. These trials were run with automatic grasp selection in pick-and-drop mode by an expert user who determined the order the objects were grasped in.</p >
   </div>
 </div>
 
