@@ -37,19 +37,20 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 ## Experiments
 ### Grasping in Isolation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4sy7esFrItU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/4sy7esFrItU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 {: .align-left }
 
 To evaluate the grasping functionality of our system, we performed experiments in a tabletop scenario on a 46 cm tall table while the scooter was stationary. For each trial, six objects were randomly selected from the object set and placed on the table in randomly selected positions at least two centimeters away from each other in their upright orientation. These trials were run with automatic grasp selection in pick-and-drop mode by an expert user who determined the order the objects were grasped in.
+-->
 
-<!--<div>
-  <div style="float:left">
+<div>
+  <div style="float:left; width:50%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4sy7esFrItU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
-  <div style="float:left; max-width:500px">
+  <div style="float:left; width:50%;">
     <p>To evaluate the grasping functionality of our system, we performed experiments in a tabletop scenario on a 46 cm tall table while the scooter was stationary. For each trial, six objects were randomly selected from the object set and placed on the table in randomly selected positions at least two centimeters away from each other in their upright orientation. These trials were run with automatic grasp selection in pick-and-drop mode by an expert user who determined the order the objects were grasped in.</p >
   </div>
-</div> -->
+</div>
 
 
 
