@@ -84,4 +84,4 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 -->
 
 ## Contact
-If you have any questions, please feel free to contact Dian Wang at wang[dot]dian[at]husky[dot]neu[dot]edu.
+If you have any questions, please feel free to contact [Dian Wang](https://pointw.github.io) at wang[dot]dian[at]husky[dot]neu[dot]edu.
