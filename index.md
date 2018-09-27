@@ -52,7 +52,7 @@ To evaluate the grasping functionality of our system, we performed experiments i
   </div>
 </div>
 
-
+<div style="clear:both"></div>
 
 ## System Workflow
 ### Interface WorkFlow
