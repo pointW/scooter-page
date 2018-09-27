@@ -42,7 +42,19 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
     <iframe width="400" height="225" src="https://www.youtube.com/embed/4sy7esFrItU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
   <div style="float:left; max-width:500px">
-    <p>To evaluate the grasping functionality of our system, we performed experiments in a tabletop scenario on a 46 cm tall table while the scooter was stationary. For each trial, six objects were randomly selected from the object set and placed on the table in randomly selected positions at least two centimeters away from each other in their upright orientation. These trials were run with automatic grasp selection in pick-and-drop mode by an expert user who determined the order the objects were grasped in.</p >
+    <p>To evaluate the grasping functionality of our system, we performed experiments in a tabletop scenario where the scooter was stationary. For each trial, six objects were randomly selected from the object set and placed on the table in randomly selected positions at least two centimeters away from each other in their upright orientation. These trials were run with automatic grasp selection in pick-and-drop mode by an expert user who determined the order the objects were grasped in.</p >
+  </div>
+</div>
+
+<div style="clear:both"></div>
+
+### Pick and Drop In-Situ
+<div>
+  <div style="float:left; width:450px;">
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/cfigrh8n-4s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+  <div style="float:left; max-width:500px">
+    <p>To test our system in a real-world scenario, we used an open kitchen area. The system were run with automatic grasp selection in pick-and-drop mode by an expert user. At the start of each task, the scooter was driven to a start point and then up to the next object in the sequence to be grasped. Then the expert user would operate the system to grasp the target object.</p >
   </div>
 </div>
 
@@ -51,10 +63,10 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 ### Pick and Place In-Situ
 <div>
   <div style="float:left; width:450px;">
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/cfigrh8n-4s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/T-kR89dqwQY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
   <div style="float:left; max-width:500px">
-    <p>To test our system in a real-world scenario, we used an open kitchen area. The system were run with automatic grasp selection in pick-and-drop mode by an expert user. At the start of each task, the scooter was driven to a start point and then up to the next object in the sequence to be grasped. Then the expert user would operate the system to grasp the target object.</p >
+    <p>We tested the pick-and-place functionality in a more complex version of the kitchen environment. In each trial, objects were randomly assigned a target placing surface. These trials were run with manual grasp selection in pick-and-place mode by an expert user. At the start of each task, the scooter was driven to a start point and then up to the next object to be grasped. After the object was grasped, the scooter was driven to the target surface and the object was placed on top of it. </p >
   </div>
 </div>
 
