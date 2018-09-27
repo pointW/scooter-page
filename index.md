@@ -44,7 +44,7 @@ To evaluate the grasping functionality of our system, we performed experiments i
 -->
 
 <div>
-  <div style="float:left;">
+  <div style="float:left; width:450px">
     <iframe width="400" height="225" src="https://www.youtube.com/embed/4sy7esFrItU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
   <div style="float:left; max-width:500px;">
