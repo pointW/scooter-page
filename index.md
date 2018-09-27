@@ -75,7 +75,7 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 ## System Workflow
 ### Interface WorkFlow
 <div style="text-align:center">
-	<img src="img/interface.png" alt="interface_flow" width="700"/>
+	<img src="img/interface.png" alt="interface_flow" width="900"/>
 </div>
 ### Grasping WorkFlow
 <div style="text-align:center">
