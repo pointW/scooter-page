@@ -81,3 +81,6 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 <div style="text-align:center">
 	<img src="img/grasping.png" alt="grasping_flow" width="700"/>
 </div>
+
+## Contact
+If you have any questions, please feel free to contact Dian Wang at wang[dot]dian[at]husky[dot]neu[dot]edu.
