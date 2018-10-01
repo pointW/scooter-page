@@ -28,6 +28,7 @@ The system is comprised of a Universal Robotics UR5 robot arm mounted on a Merit
 <sup>1</sup>Northeastern University
 
 <sup>2</sup>University of Massachusetts Lowell </p >
+</div>
 
 ## Video
 <div style="text-align:center">
