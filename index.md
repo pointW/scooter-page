@@ -72,6 +72,19 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 
 <div style="clear:both"></div>
 
+### Comparing Maunal Grasp Selection with Automatic Grasp Selection
+<div>
+  <div style="float:left; width:450px;">
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/VT1dWXVGBXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+  <div style="float:left; max-width:500px">
+    <p>To compare our manual grasp selection versus automatic grasp selection, we tested our system in dense objects setup. In each pair of trials, we ran the system to grasp target objects in the same sequence under automatic grasp selection and manual grasp selection in a similar pile, which is formed by placing objects on top of number tags.  </p >
+  </div>
+</div>
+
+<div style="clear:both"></div>
+
+
 <!-- ## System Workflow
 ### Interface WorkFlow
 <div style="text-align:center">
