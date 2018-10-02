@@ -57,7 +57,7 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 </div>
 
 <div style="clear:both"></div>
-
+------
 ### Pick and Drop In-Situ
 <div>
   <div style="float:left; width:450px;">
@@ -69,7 +69,7 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 </div>
 
 <div style="clear:both"></div>
-
+------
 ### Pick and Place In-Situ
 <div>
   <div style="float:left; width:450px;">
@@ -81,7 +81,7 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 </div>
 
 <div style="clear:both"></div>
-
+------
 ### Comparing Maunal Grasp Selection with Automatic Grasp Selection
 <div>
   <div style="float:left; width:450px;">
@@ -93,7 +93,7 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 </div>
 
 <div style="clear:both"></div>
-
+------
 ### Failure Mode
 #### Planning/IK Failure
 <div>
