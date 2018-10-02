@@ -94,6 +94,30 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 
 <div style="clear:both"></div>
 
+### Failure Mode
+#### Planning/IK Failure
+<div>
+  <div style="float:left; width:450px;">
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/XosmwToVDf0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+  <div style="float:left; max-width:500px">
+    <p>Because the distance between the arm and the sensor mounting bars was small, the arm's workspace was reduced and the system always suffers from no IK solution or planning failure. The video shows one particular grasping attempt, where the user had to reposition the platform multiple times to grasp the target object. The lack of RGB information in the interface also harmed the user's judgement. </p >
+  </div>
+</div>
+
+<div style="clear:both"></div>
+
+#### Pushing When Placing
+<div>
+  <div style="float:left; width:450px;">
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/8_BBPmg3g1c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+  <div style="float:left; max-width:500px">
+    <p>Although we didn't take pushing as a failure in placing, it happened sometimes. </p >
+  </div>
+</div>
+
+<div style="clear:both"></div>
 
 <!-- ## System Workflow
 ### Interface WorkFlow
