@@ -3,7 +3,7 @@ youtubeId: lDi9uFcD7XI
 published: true
 ---
 
-Many people with motor disabilities struggle with activities of daily life (ADLs), limiting their ability to live independently. This paper details a robotic mobility scooter developed to assist with manipulation-based ADLs to increase independence. We present a system comprised of a Universal Robotics UR5 robotic arm, a mobility scooter, five depth sensors, and a user interface which utilizes laser pointers. The system provides pick-and-drop and pick-and-place functionality in open world environments without modeling the objects or environment. We evaluate our system over several experimental scenarios and show an improvement relative to a baseline established for a similar system.
+The ability to autonomously pick and place a wide range of novel objects can benefit applications in assistive robotics where robots are deployed to support humans in their daily life. However, current assistive robots lack this capability. This paper takes a step forward in this direction. We present a robot system comprised of a robotic arm and a mobility scooter that provides both pick-and-drop and pick-and-place functionality for open world environments without modeling the objects or environment.
 
 <div style="text-align:center">
 	<img src="img/system.JPG" alt="system" height="300"/>
@@ -14,8 +14,6 @@ The system is comprised of a Universal Robotics UR5 robot arm mounted on a Merit
 
 ## Paper
 Latest Version 25 Sep 2018: [arXiv:1809.09541[cs.RO]](https://arxiv.org/abs/1809.09541)
-
-Submmited to IEEE International Conference on Robotics and Automation (ICRA) 2019
 
 [Dian Wang<sup>1</sup>](https://pointw.github.io), 
 [Colin Kohler<sup>1</sup>](https://www.ccis.northeastern.edu/people/colin-kohler/), 
@@ -41,7 +39,7 @@ Submmited to IEEE International Conference on Robotics and Automation (ICRA) 201
 
 ## Video
 <div style="text-align:center">
-	<iframe width="853" height="480" src="https://www.youtube.com/embed/-FqXRtMlc4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="853" height="480" src="https://www.youtube.com/embed/ZimZlsJTaTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ## Experiments
