@@ -6,8 +6,8 @@ published: true
 The ability to autonomously pick and place a wide range of novel objects can benefit applications in assistive robotics where robots are deployed to support humans in their daily life. However, current assistive robots lack this capability. This paper takes a step forward in this direction. We present a robot system comprised of a robotic arm and a mobility scooter that provides both pick-and-drop and pick-and-place functionality for open world environments without modeling the objects or environment.
 
 <div style="text-align:center">
-	<img src="img/system.JPG" alt="system" height="300"/>
-  	<img src="img/interface.JPG" alt="system" height="300"/>
+	<img src="img/system.png" alt="system" height="300"/>
+  	<img src="img/interface.jpeg" alt="system" height="300"/>
 </div>
 
 The system is comprised of a Universal Robotics UR5 robot arm mounted on a Merits Pioneer 10 mobility scooter. Five StructIO depth sensors provide perception functionality for the system. The user interface, including a monitor, a key stick, and a dual laser pointer device, enable the system to interact with the user.
