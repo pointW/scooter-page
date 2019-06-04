@@ -31,7 +31,7 @@ Alexander Wilkinson<sup>2</sup>,
 ```
 @article{wang2019towards,
   title={Towards Assistive Robotic Pick and Place in Open World Environments},
-  author={Wang, Dian and Kohler, Colin and Pas, Andreas ten and Wilkinson, Alexander Liu, Maozhi and Yanco, Holly and Platt, Robert},
+  author={Wang, Dian and Kohler, Colin and Pas, Andreas ten and Wilkinson, Alexander and Liu, Maozhi and Yanco, Holly and Platt, Robert},
   journal={arXiv preprint arXiv:1809.09541},
   year={2019}
 }
