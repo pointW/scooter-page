@@ -13,10 +13,11 @@ Assistive robot manipulators must be able to autonomously pick and place a wide 
 The system is comprised of a Universal Robotics UR5 robot arm mounted on a Merits Pioneer 10 mobility scooter. Five StructIO depth sensors provide perception functionality for the system. The user interface, including a monitor, a key stick, a projector, and a dual laser pointer device, enable the system to interact with the user.
 
 ## Paper
-Latest Version 25 Sep 2018: [arXiv:1809.09541[cs.RO]](https://arxiv.org/abs/1809.09541)
+Latest Version 3 Jun 2019: [arXiv:1809.09541[cs.RO]](https://arxiv.org/abs/1809.09541)
 
 [Dian Wang<sup>1</sup>](https://pointw.github.io), 
 [Colin Kohler<sup>1</sup>](https://www.ccis.northeastern.edu/people/colin-kohler/), 
+[Alexander Wilkinson<sup>2</sup>]
 [Andreas ten Pas<sup>1</sup>](http://www.ccs.neu.edu/home/atp/), 
 [Maozhi Liu<sup>1</sup>](https://www.linkedin.com/in/maozhi-liu/), 
 [Holly Yanco<sup>2</sup>](http://www.cs.uml.edu/~holly/), 
@@ -28,11 +29,11 @@ Latest Version 25 Sep 2018: [arXiv:1809.09541[cs.RO]](https://arxiv.org/abs/1809
 <sup>2</sup>University of Massachusetts Lowell
 
 ```
-@article{wang2018scooter,
-  title={A Scooter-Mounted Robot Arm to Assist with Activities of Daily Life},
-  author={Wang, Dian and Kohler, Colin and Pas, Andreas ten and Liu, Maozhi and Yanco, Holly and Platt, Robert},
+@article{wang2019towards,
+  title={Towards Assistive Robotic Pick and Place in Open World Environments},
+  author={Wang, Dian and Kohler, Colin and Pas, Andreas ten and Wilkinson, Alexander Liu, Maozhi and Yanco, Holly and Platt, Robert},
   journal={arXiv preprint arXiv:1809.09541},
-  year={2018}
+  year={2019}
 }
 ```
 
