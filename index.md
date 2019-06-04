@@ -17,7 +17,7 @@ Latest Version 3 Jun 2019: [arXiv:1809.09541[cs.RO]](https://arxiv.org/abs/1809.
 
 [Dian Wang<sup>1</sup>](https://pointw.github.io), 
 [Colin Kohler<sup>1</sup>](https://www.ccis.northeastern.edu/people/colin-kohler/), 
-[Alexander Wilkinson<sup>2</sup>]
+Alexander Wilkinson<sup>2</sup>,
 [Andreas ten Pas<sup>1</sup>](http://www.ccs.neu.edu/home/atp/), 
 [Maozhi Liu<sup>1</sup>](https://www.linkedin.com/in/maozhi-liu/), 
 [Holly Yanco<sup>2</sup>](http://www.cs.uml.edu/~holly/), 
